@@ -52,7 +52,7 @@
 
 ---
 
-[![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemf)](https://github.com/anuraghazra/github-readme-stats)
+[![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemf&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [CoKaiDo]: https://www.cokaido.com
