@@ -30,7 +30,7 @@
 
 ---
 
-### 📺 My latest blog posts
+### 📺 My latest videos on Youtube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
