@@ -28,6 +28,10 @@
 <br />
 <br />
 
+### 📝 My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [CoKaiDo]: https://www.cokaido.com
 [guillem_cat]: http://guillem.cat
 [youtube]: https://www.youtube.com/channel/UCGSJjiAYjwY3UcE12VoGFRA
