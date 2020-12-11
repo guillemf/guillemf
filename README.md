@@ -45,6 +45,11 @@
 - [BDD - Mastermind : Adding Calabash and Creating Our First Tests](http://guillemf.github.io/blog/2014/11/20/bdd-mastermind-adding-calabash-and-creating-our-first-tests/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemf)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [CoKaiDo]: https://www.cokaido.com
 [guillem_cat]: http://guillem.cat
 [youtube]: https://www.youtube.com/channel/UCGSJjiAYjwY3UcE12VoGFRA
