@@ -1,4 +1,4 @@
-### Hi there, I'm Guillem and this is my [website]
+### Hi there, I'm Guillem and this is my [website][guillem_cat]
 
 ## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
 - 📠 I'm co-founder of [CoKaiDo]
