@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="guillem.cat" width="22px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][guillem_cat]
+[<img align="left" alt="guillem.cat" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />][guillem_cat]
 [<img align="left" alt="Youtube" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,8 +18,12 @@
 ### Languages and Tools
 
 [<img align="left" alt="Swift" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />][swift]
+[<img align="left" alt="iOS" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ios.svg" />][ios]
 [<img align="left" alt="XCode" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg" />][xcode]
 [<img align="left" alt="AppCode" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />][appcode]
+[<img align="left" alt="Git" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
+[<img align="left" alt="Swagger" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />][swagger]
+[<img align="left" alt="Vim" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vim]
 
 <br />
 <br />
@@ -32,4 +36,8 @@
 [swift]: https://swift.org
 [xcode]: https://developer.apple.com/xcode/
 [appcode]: https://www.jetbrains.com/objc/
+[git]: https://git-scm.com/book/en/v2/GitHub-Maintaining-a-Project
+[ios]: https://developer.apple.com/
+[swagger]: https://swagger.io/
+[vim]: https://www.vim.org/
 
