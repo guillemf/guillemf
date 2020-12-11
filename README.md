@@ -28,6 +28,14 @@
 <br />
 <br />
 
+---
+
+### 📺 My latest blog posts
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ### 📝 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
