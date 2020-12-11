@@ -1,0 +1,35 @@
+### Hi there, I'm Guillem and this is my [website]
+
+## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
+- 📠 I'm co-founder of [CoKaiDo]
+- 💪🏼 I'm currently working at Bumble
+- 📖 I' Writing a book about IT Booster Skills
+- 🧪 I love TDD
+
+### Connect with me:
+
+[<img align="left" alt="guillem.cat" with="22px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][guillem_cat]
+[<img align="left" alt="Youtube" with="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" with="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" with="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools
+
+[<img align="left" alt="Swift" with="26px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/swift.svg" />][swift]
+[<img align="left" alt="XCode" with="26px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/xcode.svg" />][xcode]
+[<img align="left" alt="AppCode" with="26px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/jetbrains.svg" />][appcode]
+
+<br />
+<br />
+
+[CoKaiDo]: https://www.cokaido.com
+[guillem-cat]: https://guillem.cat
+[youtube]: https://www.youtube.com/channel/UCGSJjiAYjwY3UcE12VoGFRA
+[twitter]: https://twitter.com/guillemfg?lang=en
+[linkedin]: https://es.linkedin.com/in/gfernandezg
+[swift]: https://swift.org
+[xcode]: https://developer.apple.com/xcode/
+[appcode]: https://www.jetbrains.com/objc/
+
