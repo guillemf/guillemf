@@ -17,9 +17,9 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="Swift" width="26px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/swift.svg" />][swift]
-[<img align="left" alt="XCode" width="26px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/xcode.svg" />][xcode]
-[<img align="left" alt="AppCode" width="26px" src="http://raw.githubusercontent.com/iconic/open-iconic/master/svg/jetbrains.svg" />][appcode]
+[<img align="left" alt="Swift" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />][swift]
+[<img align="left" alt="XCode" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg" />][xcode]
+[<img align="left" alt="AppCode" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />][appcode]
 
 <br />
 <br />
