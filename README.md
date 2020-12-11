@@ -29,7 +29,7 @@
 <br />
 
 [CoKaiDo]: https://www.cokaido.com
-[guillem_cat]: https://guillem.cat
+[guillem_cat]: http://guillem.cat
 [youtube]: https://www.youtube.com/channel/UCGSJjiAYjwY3UcE12VoGFRA
 [twitter]: https://twitter.com/guillemfg?lang=en
 [linkedin]: https://es.linkedin.com/in/gfernandezg
