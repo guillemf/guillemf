@@ -58,7 +58,7 @@
 
 #### :sparkles: My followers
 
-Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
+Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this list.
 
 <!--START_SECTION:top-followers-->
 <table>
