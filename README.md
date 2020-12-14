@@ -14,7 +14,9 @@
 [<img align="left" alt="LinkedIn" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
 <br />
 
 ### Languages and Tools
