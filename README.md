@@ -12,10 +12,7 @@
 [<img align="left" alt="Youtube" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-![Twitter Follow](https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge)
+&nbsp;![Twitter Follow](https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 <br />
 
