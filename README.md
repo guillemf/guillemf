@@ -14,8 +14,11 @@
 [<img align="left" alt="LinkedIn" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
-![http://guillem.cat](https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat) &nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo]
+
+[<img aling="left" alt="Guillem.cat" src="http://guillem.cat](https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat" />][guillem_cat]
+&nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo]
 
 <br />
 
