@@ -52,8 +52,14 @@
 
 ---
 
-[![Guillem's github stats](https://github-readme-stats-one-drab.vercel.app
-/api?username=guillemf&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemf&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+    <summary>:zap: Github Stats</summary>
+
+    <img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats-one-drab.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [CoKaiDo]: https://www.cokaido.com
