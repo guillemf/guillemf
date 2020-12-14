@@ -28,6 +28,10 @@
 <br />
 <br />
 
+[<img aling="left" alt="Guillem.cat" src="https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat" />][guillem_cat]
+&nbsp;[<img aling="left" alt="CoKaiDo.com" src="https://img.shields.io/website?label=CoKaiDo.com&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fcokaido.com" />][CoKaiDo]
+&nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo]
+
 ---
 
 ### 📺 My latest videos on Youtube
@@ -52,12 +56,10 @@
 
 ---
 
-[![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemf&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
     <summary>:zap: Github Stats</summary>
-
-    <img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats-one-drab.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
+    
+<img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats.guillemf.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -74,4 +76,5 @@
 [ios]: https://developer.apple.com/
 [swagger]: https://swagger.io/
 [vim]: https://www.vim.org/
+[Twitter_CoKaiDo]: https://twitter.com/cokaido_es
 
