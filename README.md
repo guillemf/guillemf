@@ -57,10 +57,10 @@
 <!-- <details>
     <summary>:zap: Github Stats</summary> -->
     
-    <img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats.guillemf.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
 
 <!-- </details> -->
 
+<img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats.guillemf.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
 
 [CoKaiDo]: https://www.cokaido.com
 [guillem_cat]: http://guillem.cat
