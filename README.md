@@ -56,8 +56,8 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-
-    <img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats-one-drab.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
+    
+    <img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats.guillemf.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
 
 </details>
 
