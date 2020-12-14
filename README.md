@@ -1,4 +1,4 @@
-### Hi there, I'm Guillem and this is my [website][guillem_cat]
+### Hi I'm Guillem
 
 ## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
 - <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I'm co-founder of [CoKaiDo]
@@ -70,6 +70,9 @@
 
 </details>
 
+<br />
+<br />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=guillemf)
 
 [CoKaiDo]: https://www.cokaido.com
 [guillem_cat]: http://guillem.cat
