@@ -1,7 +1,7 @@
 ### Hi there, I'm Guillem and this is my [website][guillem_cat]
 
 ## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
-- <img align="left" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I'm co-founder of [CoKaiDo]
+- <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4">I'm co-founder of [CoKaiDo]
 - 💪🏼 I'm currently working at Bumble
 - 📖 I' Writing a book about IT Booster Skills
 - 🧪 I love TDD
