@@ -63,6 +63,13 @@
 
 </details>
 
+<details>
+    <summary>:zap: Latest Contributions</summary>
+    
+<!--START_SECTION:activity-->
+
+</details>
+
 
 [CoKaiDo]: https://www.cokaido.com
 [guillem_cat]: http://guillem.cat
