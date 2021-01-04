@@ -1,4 +1,4 @@
-### Hi there, I'm Guillem and this is my [website][guillem_cat]
+### Hi I'm Guillem
 
 ## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
 - <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I'm co-founder of [CoKaiDo]
@@ -67,6 +67,77 @@
 
 ---
 
+#### :sparkles: My followers
+
+Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this list.
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/victor">
+        <img src="https://avatars2.githubusercontent.com/u/7311" width="100px;" alt="victor"/>
+      </a>
+      <br />
+      <a href="https://github.com/victor">Víctor Jalencas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/josealobato">
+        <img src="https://avatars2.githubusercontent.com/u/21879" width="100px;" alt="josealobato"/>
+      </a>
+      <br />
+      <a href="https://github.com/josealobato">Jose A Lobato</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/manfredi-giordano">
+        <img src="https://avatars2.githubusercontent.com/u/542018" width="100px;" alt="manfredi-giordano"/>
+      </a>
+      <br />
+      <a href="https://github.com/manfredi-giordano">Manfredi Giordano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nachogarcia">
+        <img src="https://avatars2.githubusercontent.com/u/9975630" width="100px;" alt="nachogarcia"/>
+      </a>
+      <br />
+      <a href="https://github.com/nachogarcia">Nacho García</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/daferpi">
+        <img src="https://avatars2.githubusercontent.com/u/816032" width="100px;" alt="daferpi"/>
+      </a>
+      <br />
+      <a href="https://github.com/daferpi">Abel Fernández</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JonasHaouzi">
+        <img src="https://avatars2.githubusercontent.com/u/8245107" width="100px;" alt="JonasHaouzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/JonasHaouzi">Jonas HAOUZI</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/edag23">
+        <img src="https://avatars2.githubusercontent.com/u/40772290" width="100px;" alt="edag23"/>
+      </a>
+      <br />
+      <a href="https://github.com/edag23">Naveen Gade</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nicolashechim">
+        <img src="https://avatars2.githubusercontent.com/u/17903264" width="100px;" alt="nicolashechim"/>
+      </a>
+      <br />
+      <a href="https://github.com/nicolashechim">Nicolás Hechim</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+---
+
 <details>
     <summary>:zap: Github Stats</summary>
     
@@ -74,6 +145,17 @@
 
 </details>
 
+<details>
+    <summary>:zap: Latest Contributions</summary>
+    
+<!--START_SECTION:activity-->
+
+</details>
+
+<br />
+<br />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=guillemf)
 
 [CoKaiDo]: https://www.cokaido.com
 [guillem_cat]: http://guillem.cat
