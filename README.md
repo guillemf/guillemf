@@ -3,8 +3,19 @@
 ## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
 - <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I'm co-founder of [CoKaiDo]
 - 💪🏼 I'm currently working at Bumble
-- 📖 I' Writing a book about IT Booster Skills
+- 📖 I'm writing a book about IT Booster Skills
 - 🧪 I love TDD
+
+## 2021 Ressolutions - 01.01.2021
+
+[ ] Publish the first version of Booster Skills by the end of January
+[ ] Read three books in January (1/3)
+[ ] Start contributing to a new Open Source project
+    - [TokamakUI](https://github.com/TokamakUI/Tokamak)
+    - [XCLogger](https://github.com/DaveWoodCom/XCGLogger)
+    - [SwifterSwift](https://swifterswift.com/)
+[ ] Keto + IF in January
+[ ] Update my SN profiles
 
 ### Connect with me:
 
