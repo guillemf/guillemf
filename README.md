@@ -16,6 +16,7 @@
     - [SwifterSwift](https://swifterswift.com/)
 - [ ] Keto + IF in January
 - [ ] Update my SN profiles
+- [ ] Start using FacileThings
 
 ### Connect with me:
 
