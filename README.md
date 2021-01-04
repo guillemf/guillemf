@@ -10,7 +10,7 @@
 
 - [ ] Publish the first version of Booster Skills by the end of January
 - [ ] Read three books in January (1/3)
-- [ ] Start contributing to a new Open Source project
+- [ ] Start contributing to an existing Open Source project
     - [TokamakUI](https://github.com/TokamakUI/Tokamak)
     - [XCLogger](https://github.com/DaveWoodCom/XCGLogger)
     - [SwifterSwift](https://swifterswift.com/)
