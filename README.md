@@ -17,6 +17,7 @@
 - [ ] Keto + IF in January
 - [ ] Update my SN profiles
 - [ ] Start using FacileThings
+- [ ] Update my blog, Theme and content
 
 ### Connect with me:
 
