@@ -8,14 +8,14 @@
 
 ## 2021 Ressolutions - 01.01.2021
 
-[ ] Publish the first version of Booster Skills by the end of January
-[ ] Read three books in January (1/3)
-[ ] Start contributing to a new Open Source project
+- [ ] Publish the first version of Booster Skills by the end of January
+- [ ] Read three books in January (1/3)
+- [ ] Start contributing to a new Open Source project
     - [TokamakUI](https://github.com/TokamakUI/Tokamak)
     - [XCLogger](https://github.com/DaveWoodCom/XCGLogger)
     - [SwifterSwift](https://swifterswift.com/)
-[ ] Keto + IF in January
-[ ] Update my SN profiles
+- [ ] Keto + IF in January
+- [ ] Update my SN profiles
 
 ### Connect with me:
 
