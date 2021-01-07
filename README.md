@@ -98,18 +98,18 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/manfredi-giordano">Manfredi Giordano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/daferpi">
-        <img src="https://avatars2.githubusercontent.com/u/816032" width="100px;" alt="daferpi"/>
-      </a>
-      <br />
-      <a href="https://github.com/daferpi">Abel Fernández</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nachogarcia">
         <img src="https://avatars2.githubusercontent.com/u/9975630" width="100px;" alt="nachogarcia"/>
       </a>
       <br />
       <a href="https://github.com/nachogarcia">Nacho García</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/daferpi">
+        <img src="https://avatars2.githubusercontent.com/u/816032" width="100px;" alt="daferpi"/>
+      </a>
+      <br />
+      <a href="https://github.com/daferpi">Abel Fernández</a>
     </td>
     <td align="center">
       <a href="https://github.com/JonasHaouzi">
