@@ -6,7 +6,7 @@
 - 📖 I'm writing a book about IT Booster Skills
 - 🧪 I love TDD
 
-## 2021 Ressolutions - 01.01.2021
+## 2021 Ressolutions - 01.02.2021
 
 - [x] Read three books in January (3/3)
 - [x] Start using FacileThings
