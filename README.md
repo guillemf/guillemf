@@ -1,6 +1,6 @@
 ### Hi I'm Guillem
 
-## I'm a Husband, Father of two Daughters, Developer, Teacher, and Writer
+## I'm a Husband, Father, Developer, Teacher, and Writer
 - <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I'm co-founder of [CoKaiDo]
 - 💪🏼 I'm currently working at Bumble
 - 📖 I'm writing a book about IT Booster Skills
@@ -8,15 +8,17 @@
 
 ## 2021 Ressolutions - 01.01.2021
 
+- [x] Read three books in January (3/3)
+- [x] Start using FacileThings
 - [ ] Publish the first version of Booster Skills by the end of January
-- [ ] Read three books in January (1/3)
+- [ ] Read three books in February (0/3)
 - [ ] Start contributing to an existing Open Source project
     - [TokamakUI](https://github.com/TokamakUI/Tokamak)
     - [XCLogger](https://github.com/DaveWoodCom/XCGLogger)
     - [SwifterSwift](https://swifterswift.com/)
-- [ ] Keto + IF in January
+- [ ] Keto + IF in February
 - [ ] Update my SN profiles
-- [ ] Start using FacileThings
+- [ ] Get back to things
 - [ ] Update my blog, Theme and content
 
 ### Connect with me:
