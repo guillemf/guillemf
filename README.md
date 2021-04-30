@@ -11,14 +11,12 @@
 - [x] Read three books in January (3/3)
 - [x] Start using FacileThings
 - [ ] Publish the first version of Booster Skills by the end of January
-- [ ] Read three books in February (0/3)
-- [ ] Start contributing to an existing Open Source project
-    - [TokamakUI](https://github.com/TokamakUI/Tokamak)
-    - [XCLogger](https://github.com/DaveWoodCom/XCGLogger)
-    - [SwifterSwift](https://swifterswift.com/)
-- [ ] Keto + IF in February
+- [x] Read three books in February (1/3)
+- [x] Read three books in April (3/3)
+- [x] Start new OpenSource project
+- [x] Keto + IF in February
 - [ ] Update my SN profiles
-- [ ] Get back to things
+- [x] Get back to things
 - [ ] Update my blog, Theme and content
 
 ### Connect with me:
