@@ -84,18 +84,18 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/victor">Víctor Jalencas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/josealobato">
-        <img src="https://avatars2.githubusercontent.com/u/21879" width="100px;" alt="josealobato"/>
-      </a>
-      <br />
-      <a href="https://github.com/josealobato">Jose A Lobato</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/manfredi-giordano">
         <img src="https://avatars2.githubusercontent.com/u/542018" width="100px;" alt="manfredi-giordano"/>
       </a>
       <br />
       <a href="https://github.com/manfredi-giordano">Manfredi Giordano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/josealobato">
+        <img src="https://avatars2.githubusercontent.com/u/21879" width="100px;" alt="josealobato"/>
+      </a>
+      <br />
+      <a href="https://github.com/josealobato">Jose A Lobato</a>
     </td>
     <td align="center">
       <a href="https://github.com/daferpi">
