@@ -1,23 +1,20 @@
-### Hi I'm Guillem
+### Hi, I'm Guillem
 
-## I'm a Husband, Father, Developer, Teacher, and Writer
-- <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I'm co-founder of [CoKaiDo]
-- 💪🏼 I'm currently working at Bumble
-- 📖 I'm writing a book about IT Booster Skills
-- 🧪 I love TDD
+## I'm a Husband, Father, Engineer, Teacher, and Writer
+- <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I co-founded [CoKaiDo]
+- 💪🏼 I'm currently looking for new opportunities
+- 📖 I'm writing a book about Soft Skills (Booster Skills)
+- 🧪 I love eXtreme Programming
 
-## 2021 Ressolutions - 01.02.2021
+## 2024 Ressolutions - 14.05.2024
 
-- [x] Read three books in January (3/3)
-- [x] Start using FacileThings
-- [ ] Publish the first version of Booster Skills by the end of January
-- [x] Read three books in February (1/3)
 - [x] Read three books in April (3/3)
-- [x] Start new OpenSource project
-- [x] Keto + IF in February
-- [ ] Update my SN profiles
-- [x] Get back to things
-- [ ] Update my blog, Theme and content
+- [ ] Publish the first version of Booster Skills by the end of June
+- [ ] Read three books in May (1/3)
+- [ ] Read three books in June (3/3)
+- [ ] Start a new YouTube channel (in the process)
+- [ ] Get back to things
+- [ ] Update my blog, Theme, and content
 
 ### Connect with me:
 
@@ -31,9 +28,7 @@
 ### Languages and Tools
 
 [<img align="left" alt="Swift" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />][swift]
-[<img align="left" alt="iOS" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ios.svg" />][ios]
-[<img align="left" alt="XCode" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg" />][xcode]
-[<img align="left" alt="AppCode" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />][appcode]
+[<img align="left" alt="AppCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />][kotlin]
 [<img align="left" alt="Git" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 [<img align="left" alt="Swagger" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" />][swagger]
 [<img align="left" alt="Vim" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vim]
@@ -42,8 +37,8 @@
 <br />
 
 [<img aling="left" alt="Guillem.cat" src="https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat" />][guillem_cat]
-&nbsp;[<img aling="left" alt="CoKaiDo.com" src="https://img.shields.io/website?label=CoKaiDo.com&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fcokaido.com" />][CoKaiDo]
-&nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo]
+&nbsp;[<img aling="left" alt="LinkedIn.com" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+<!-- &nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo] -->
 
 ---
 
@@ -64,7 +59,7 @@
 - [What Is the Status of BDD in Swift](http://guillemf.github.io/blog/2016/09/08/what-is-the-status-of-bdd-in-swift/)
 - [MFMailComposeViewController Nightmare](http://guillemf.github.io/blog/2015/01/23/mfmailcomposeviewcontroller-nightmare/)
 - [iOS 7 and iOS 8 Living Together](http://guillemf.github.io/blog/2015/01/20/ios-7-and-ios-8-living-together/)
-- [BDD - Mastermind : Adding Calabash and Creating Our First Tests](http://guillemf.github.io/blog/2014/11/20/bdd-mastermind-adding-calabash-and-creating-our-first-tests/)
+- [BDD - Mastermind: Adding Calabash and Creating Our First Tests](http://guillemf.github.io/blog/2014/11/20/bdd-mastermind-adding-calabash-and-creating-our-first-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -159,6 +154,7 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
     
 <!--START_SECTION:activity-->
 
+
 </details>
 
 <br />
@@ -166,14 +162,14 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=guillemf)
 
-[CoKaiDo]: https://www.cokaido.com
+[linkedin]: https://www.linkedin.com/in/gfernandezg/
 [guillem_cat]: http://guillem.cat
 [youtube]: https://www.youtube.com/channel/UCGSJjiAYjwY3UcE12VoGFRA
 [twitter]: https://twitter.com/guillemfg?lang=en
 [linkedin]: https://es.linkedin.com/in/gfernandezg
 [swift]: https://swift.org
 [xcode]: https://developer.apple.com/xcode/
-[appcode]: https://www.jetbrains.com/objc/
+[kotlin]: https://https://kotlinlang.org/
 [git]: https://git-scm.com/book/en/v2/GitHub-Maintaining-a-Project
 [ios]: https://developer.apple.com/
 [swagger]: https://swagger.io/
