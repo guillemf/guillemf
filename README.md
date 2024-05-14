@@ -1,7 +1,7 @@
 ### Hi, I'm Guillem
 
 ## I'm a Husband, Father, Engineer, Teacher, and Writer
-- <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I co-founded [CoKaiDo]
+- <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I co-founded CoKaiDo
 - 💪🏼 I'm currently looking for new opportunities
 - 📖 I'm writing a book about Soft Skills (Booster Skills)
 - 🧪 I love eXtreme Programming
@@ -37,7 +37,7 @@
 <br />
 
 [<img aling="left" alt="Guillem.cat" src="https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat" />][guillem_cat]
-&nbsp;[<img aling="left" alt="LinkedIn.com" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+<!-- &nbsp;[<img aling="left" alt="LinkedIn.com" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] -->
 <!-- &nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo] -->
 
 ---
