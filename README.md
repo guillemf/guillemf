@@ -153,7 +153,7 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
     <summary>:zap: Latest Contributions</summary>
     
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 </details>
 
