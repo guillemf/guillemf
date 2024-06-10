@@ -56,8 +56,8 @@
 
 ### 📝 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Time to reflect](https://guillemf.github.io/opinion/2024-06-10-time-to-reflect.html)
 - [What Is the Status of BDD in Swift](https://guillemf.github.io/opinion/2016-09-18-what-is-the-tatus-of-bdd-in-swift.html)
-- [And Now What?](https://guillemf.github.io/opinion/2016-09-16-and-now-what.html)
 - [MFMailComposeViewController Nightmare](https://guillemf.github.io/development/tips'n'tricks/2015-01-23-mfmailcomposeviewcontroller-nightmare.html)
 - [iOS 7 and iOS 8 living together](https://guillemf.github.io/development/tips'n'tricks/2015-01-20-ios-7-and-ios-8-living-together.html)
 - [BDD - Mastermind : Adding calabash and creating our first tests](https://guillemf.github.io/development/bdd/tdd/2014-11-20-bdd-mastermind-adding-calabash-and-creating-our-first-tests.html)
