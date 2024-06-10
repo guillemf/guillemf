@@ -39,6 +39,7 @@
 [<img aling="left" alt="Guillem.cat" src="https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat" />][guillem_cat]
 <!-- &nbsp;[<img aling="left" alt="LinkedIn.com" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] -->
 <!-- &nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo] -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=guillemf)
 
 ---
 
@@ -148,10 +149,6 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
     
 <!--START_SECTION:activity-->
 
-<br />
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=guillemf)
 
 [linkedin]: https://www.linkedin.com/in/gfernandezg/
 [guillem_cat]: http://guillem.cat
