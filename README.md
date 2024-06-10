@@ -144,21 +144,9 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
 
 ![Guillem's Github Stats](https://github-readme-stats.vercel.app/api?username=guillemf&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
-<details>
-    <summary>:zap: Github Stats</summary>
-    
-<img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats.guillemf.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-    <summary>:zap: Latest Contributions</summary>
+---
     
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <br />
 <br />
