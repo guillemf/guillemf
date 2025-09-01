@@ -3,18 +3,19 @@
 ## I'm a Husband, Father, Engineer, Teacher, and Writer
 - <img align="center" alt="guillem.cat" width="22px" src="https://avatars0.githubusercontent.com/u/47561027?s=60&v=4"> I co-founded CoKaiDo
 - 💪🏼 I'm currently looking for new opportunities
-- 📖 I'm writing a book about Soft Skills (Booster Skills)
+- 📖 I'm writing a book about Soft Skills (Booster 🚀 Skills)
 - 🧪 I love eXtreme Programming
 
 ## 2024 Ressolutions - 14.05.2024
 
 - [x] Read three books in April (3/3)
-- [ ] Publish the first version of Booster Skills by the end of June
-- [ ] Read three books in May (1/3)
-- [ ] Read three books in June (3/3)
-- [ ] Start a new YouTube channel (in the process)
-- [ ] Get back to things
-- [ ] Update my blog, Theme, and content
+- [x] Publish the first version of Booster Skills by the end of June
+- [x] Read three books in May (3/3)
+- [x] Read three books in June (3/3)
+- [x] Read three books in July (3/3)
+- [x] Start a new YouTube channel (in the process)
+- [ ] ~~Get back to things~~
+- [x] Update my blog, Theme, and content
 
 ### Connect with me:
 
@@ -39,7 +40,6 @@
 [<img aling="left" alt="Guillem.cat" src="https://img.shields.io/website?label=Guillem.cat&style=for-the-badge&up_message=Up&url=http%3A%2F%2Fguillem.cat" />][guillem_cat]
 <!-- &nbsp;[<img aling="left" alt="LinkedIn.com" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] -->
 <!-- &nbsp;[<img aling="left" alt="Follow CoKaiDo in Twitter" src="https://img.shields.io/twitter/follow/cokaido_es?color=1DA1F2&logo=Twitter&style=for-the-badge" />][Twitter_CoKaiDo] -->
-![visitors](https://vbr.nathanchung.dev/badge?page_id=guillemf.github.io)
 
 ---
 
@@ -56,11 +56,11 @@
 
 ### 📝 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why do we follow our leaders?](https://guillemf.github.io/philosophy/2024-09-04-why-do-we-follow-our-leaders.html)
-- [Are you able to do multitasking?](https://guillemf.github.io/productivity/2024-06-11-are-you-able-to-do-multitasking.html)
-- [How does your memory work?](https://guillemf.github.io/productivity/2024-06-11-how-does-your-memory-work.html)
-- [Time to reflect](https://guillemf.github.io/opinion/2024-06-10-time-to-reflect.html)
-- [What Is the Status of BDD in Swift](https://guillemf.github.io/opinion/2016-09-18-what-is-the-tatus-of-bdd-in-swift.html)
+- [And Now What?](http://guillemf.github.io/blog/2016/09/16/and-now-what/)
+- [What Is the Status of BDD in Swift](http://guillemf.github.io/blog/2016/09/08/what-is-the-status-of-bdd-in-swift/)
+- [MFMailComposeViewController Nightmare](http://guillemf.github.io/blog/2015/01/23/mfmailcomposeviewcontroller-nightmare/)
+- [iOS 7 and iOS 8 Living Together](http://guillemf.github.io/blog/2015/01/20/ios-7-and-ios-8-living-together/)
+- [BDD - Mastermind: Adding Calabash and Creating Our First Tests](http://guillemf.github.io/blog/2014/11/20/bdd-mastermind-adding-calabash-and-creating-our-first-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -80,6 +80,13 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/victor">Víctor Jalencas</a>
     </td>
     <td align="center">
+      <a href="https://github.com/manfredi-giordano">
+        <img src="https://avatars2.githubusercontent.com/u/542018" width="100px;" alt="manfredi-giordano"/>
+      </a>
+      <br />
+      <a href="https://github.com/manfredi-giordano">Manfredi Giordano</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/josealobato">
         <img src="https://avatars2.githubusercontent.com/u/21879" width="100px;" alt="josealobato"/>
       </a>
@@ -87,11 +94,11 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/josealobato">Jose A Lobato</a>
     </td>
     <td align="center">
-      <a href="https://github.com/manfredi-giordano">
-        <img src="https://avatars2.githubusercontent.com/u/542018" width="100px;" alt="manfredi-giordano"/>
+      <a href="https://github.com/daferpi">
+        <img src="https://avatars2.githubusercontent.com/u/816032" width="100px;" alt="daferpi"/>
       </a>
       <br />
-      <a href="https://github.com/manfredi-giordano">Manfredi Giordano</a>
+      <a href="https://github.com/daferpi">Abel Fernández</a>
     </td>
     <td align="center">
       <a href="https://github.com/nachogarcia">
@@ -108,13 +115,6 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/7agustibm">Agustí Becerra Milà</a>
     </td>
     <td align="center">
-      <a href="https://github.com/daferpi">
-        <img src="https://avatars2.githubusercontent.com/u/816032" width="100px;" alt="daferpi"/>
-      </a>
-      <br />
-      <a href="https://github.com/daferpi">Abel Fernández</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JonasHaouzi">
         <img src="https://avatars2.githubusercontent.com/u/8245107" width="100px;" alt="JonasHaouzi"/>
       </a>
@@ -124,18 +124,18 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/nicolashechim">
-        <img src="https://avatars2.githubusercontent.com/u/17903264" width="100px;" alt="nicolashechim"/>
-      </a>
-      <br />
-      <a href="https://github.com/nicolashechim">Nicolás Hechim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/edag23">
         <img src="https://avatars2.githubusercontent.com/u/40772290" width="100px;" alt="edag23"/>
       </a>
       <br />
       <a href="https://github.com/edag23">Naveen Gade</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nicolashechim">
+        <img src="https://avatars2.githubusercontent.com/u/17903264" width="100px;" alt="nicolashechim"/>
+      </a>
+      <br />
+      <a href="https://github.com/nicolashechim">Nicolás Hechim</a>
     </td>
   </tr>
 </table>
@@ -143,15 +143,28 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
 
 ---
 
-![Guillem's Github Stats](https://github-readme-stats.vercel.app/api?username=guillemf&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<details>
+    <summary>:zap: Github Stats</summary>
+    
+<img align="left" alt="Guillem's Github Stats" src="https://github-readme-stats.guillemf.vercel.app/api?username=guillemf&show_icons=true&hide_border=true" />
 
----
+</details>
+
+<details>
+    <summary>:zap: Latest Contributions</summary>
     
 <!--START_SECTION:activity-->
 
 
+</details>
+
+<br />
+<br />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=guillemf)
+
 [linkedin]: https://www.linkedin.com/in/gfernandezg/
-[guillem_cat]: http://guillem.cat
+[guillem_cat]: https://pro.guillem.cat
 [youtube]: https://www.youtube.com/channel/UCGSJjiAYjwY3UcE12VoGFRA
 [twitter]: https://twitter.com/guillemfg?lang=en
 [linkedin]: https://es.linkedin.com/in/gfernandezg
@@ -163,4 +176,3 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
 [swagger]: https://swagger.io/
 [vim]: https://www.vim.org/
 [Twitter_CoKaiDo]: https://twitter.com/cokaido_es
-
