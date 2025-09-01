@@ -6,15 +6,12 @@
 - 📖 I'm writing a book about Soft Skills (Booster 🚀 Skills)
 - 🧪 I love eXtreme Programming
 
-## 2024 Ressolutions - 14.05.2024
+## 2025 Ressolutions - 2025.09.01
 
-- [x] Read three books in April (3/3)
 - [x] Publish the first version of Booster Skills by the end of June
-- [x] Read three books in May (3/3)
-- [x] Read three books in June (3/3)
-- [x] Read three books in July (3/3)
-- [x] Start a new YouTube channel (in the process)
-- [ ] ~~Get back to things~~
+- [x] Start a new YouTube channel
+- [x] Create Booster Skills Site
+- [x] Get into Forever Notes
 - [x] Update my blog, Theme, and content
 
 ### Connect with me:
