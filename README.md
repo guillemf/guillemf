@@ -42,11 +42,11 @@
 
 ### 📺 My latest videos on Youtube
 <!-- YOUTUBE:START -->
+- [Booster Skills Content](https://www.youtube.com/watch?v=9qmPDM7xQAM)
 - [Booster Skills Overview](https://www.youtube.com/watch?v=GqUp6JMVNgE)
 - [Introduction to Booster Skills](https://www.youtube.com/watch?v=XEnM54St9oc)
 - [Lagrimas en la lluvia](https://www.youtube.com/shorts/ZQMO3DnGydI)
 - [Lágrimas en la Lluvia](https://www.youtube.com/watch?v=qylt2OYlDmU)
-- [Rotación en empresas](https://www.youtube.com/watch?v=dajhWtt0x0Q)
 <!-- YOUTUBE:END -->
 
 ---
