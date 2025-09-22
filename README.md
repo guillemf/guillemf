@@ -42,11 +42,11 @@
 
 ### 📺 My latest videos on Youtube
 <!-- YOUTUBE:START -->
+- [Booster Skills   Processes   4k](https://www.youtube.com/watch?v=4nAEYTzXva0)
 - [Booster Skills RAM](https://www.youtube.com/watch?v=E8qBEojDfG0)
 - [Booster Skills: Multitasking](https://www.youtube.com/watch?v=GsiZifWbwPg)
 - [Booster Skills Content](https://www.youtube.com/watch?v=9qmPDM7xQAM)
 - [Booster Skills Overview](https://www.youtube.com/watch?v=GqUp6JMVNgE)
-- [Introduction to Booster Skills](https://www.youtube.com/watch?v=XEnM54St9oc)
 <!-- YOUTUBE:END -->
 
 ---
