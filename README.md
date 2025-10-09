@@ -70,13 +70,6 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/XiaomingX">
-        <img src="https://avatars2.githubusercontent.com/u/5387930" width="100px;" alt="XiaomingX"/>
-      </a>
-      <br />
-      <a href="https://github.com/XiaomingX">Y11</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victor">
         <img src="https://avatars2.githubusercontent.com/u/7311" width="100px;" alt="victor"/>
       </a>
@@ -105,6 +98,13 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/nachogarcia">Nacho García</a>
     </td>
     <td align="center">
+      <a href="https://github.com/7agustibm">
+        <img src="https://avatars2.githubusercontent.com/u/8149332" width="100px;" alt="7agustibm"/>
+      </a>
+      <br />
+      <a href="https://github.com/7agustibm">Agustí Becerra Milà</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/daferpi">
         <img src="https://avatars2.githubusercontent.com/u/816032" width="100px;" alt="daferpi"/>
       </a>
@@ -112,21 +112,14 @@ Star [guillemf/guillemf](https://github.com/guillemf/guillemf) to update this li
       <a href="https://github.com/daferpi">Abel Fernández</a>
     </td>
     <td align="center">
-      <a href="https://github.com/7agustibm">
-        <img src="https://avatars2.githubusercontent.com/u/8149332" width="100px;" alt="7agustibm"/>
-      </a>
-      <br />
-      <a href="https://github.com/7agustibm">Agustí Becerra Milà</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/JonasHaouzi">
         <img src="https://avatars2.githubusercontent.com/u/8245107" width="100px;" alt="JonasHaouzi"/>
       </a>
       <br />
       <a href="https://github.com/JonasHaouzi">Jonas HAOUZI</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/nicolashechim">
         <img src="https://avatars2.githubusercontent.com/u/17903264" width="100px;" alt="nicolashechim"/>
