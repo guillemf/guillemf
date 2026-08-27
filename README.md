@@ -53,11 +53,10 @@
 
 ### 📝 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why do we follow our leaders?](https://guillemf.github.io/philosophy/2024-09-04-why-do-we-follow-our-leaders.html)
-- [Are you able to do multitasking?](https://guillemf.github.io/productivity/2024-06-11-are-you-able-to-do-multitasking.html)
-- [How does your memory work?](https://guillemf.github.io/productivity/2024-06-11-how-does-your-memory-work.html)
-- [Time to reflect](https://guillemf.github.io/opinion/2024-06-10-time-to-reflect.html)
-- [What Is the Status of BDD in Swift](https://guillemf.github.io/opinion/2016-09-18-what-is-the-tatus-of-bdd-in-swift.html)
+- [Why do we follow our leaders?](https://pro.guillem.cat/posts/2024/09/04/why-do-we-follow-our-leaders/)
+- [Are you able to do multitasking?](https://pro.guillem.cat/posts/2024/06/11/are-you-able-to-do-multitasking/)
+- [How does your memory work?](https://pro.guillem.cat/posts/2024/06/11/how-does-your-memory-work/)
+- [Time to reflect](https://pro.guillem.cat/posts/2024/06/10/time-to-reflect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
