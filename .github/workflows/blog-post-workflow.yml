@@ -1,14 +1,14 @@
 name: Latest blog post workflow
 on:
-  schedule: 
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: 
+  schedule:
+    - cron: '0 6 * * *' # Once a day is enough for a low-frequency blog
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest posts from engineeringprotocolstack.com
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://guillemf.github.io/feed.xml"
+          feed_list: "https://www.engineeringprotocolstack.com/feed.xml"
