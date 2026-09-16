@@ -90,10 +90,20 @@ to see if it's a fit.
 [LinkedIn](https://www.linkedin.com/in/gfernandezg) ·
 [guillem.cat](https://guillem.cat) ·
 [Leanpub](https://leanpub.com/engineeringprotocolstack) ·
-hello@guillem.cat
+[hello@guillem.cat](mailto:hello@guillem.cat)
 
 ---
 
-### Recent writing
+# Top Followers 🧑‍🤝‍🧑
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
+
+### Recent writing ✍️
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# Recent Activity ⚡
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
