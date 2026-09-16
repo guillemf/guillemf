@@ -170,6 +170,11 @@ to see if it's a fit.
 
 # Recent writing ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Por qué los problemas de tu equipo parecen problemas de network](https://engineeringprotocolstack.com/es/posts/2026/09/14/network-problemas/)
+- [Why Your Team’s Problems Look Like Network Problems](https://engineeringprotocolstack.com/posts/2026/09/14/network-problems/)
+- [De grupo de personas a equipo: qué cambia en la capa LAN](https://engineeringprotocolstack.com/es/posts/2026/08/11/de-grupo-a-equipo-lan/)
+- [From a Group of People to a Team: What Changes in the LAN Layer](https://engineeringprotocolstack.com/posts/2026/08/11/from-group-to-team-lan/)
+- [Tu memoria de trabajo es RAM, no un disco duro](https://engineeringprotocolstack.com/es/posts/2026/07/28/memoria-de-trabajo-ram/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent Activity ⚡
