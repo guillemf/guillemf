@@ -68,7 +68,7 @@ katas and exercises used in training, including
 
 | Role | Company | Period |
 |---|---|---|
-| Head of Product Development | Advance 52 · G+D | 2025 — Present |
+| Head of Product Development | Advance 52 · G+D | 2025 — 2026 |
 | Head of Transformation & Operations | Allianz Technology | 2024 — 2025 |
 | Head of Engineering | Bumble | 2020 — 2024 |
 | CEO & Co-founder | CoKaiDo | 2019 — 2020 |
