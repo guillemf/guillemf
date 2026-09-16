@@ -168,7 +168,7 @@ to see if it's a fit.
 <!--END_SECTION:top-followers-->
 
 
-### Recent writing ✍️
+# Recent writing ✍️
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
