@@ -179,6 +179,6 @@ to see if it's a fit.
 
 # Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Threadline v1.0.0-rc.1](https://github.com/guillemf/threadline-releases/releases/tag/v1.0.0-rc.1) in [guillemf/threadline-releases](https://github.com/guillemf/threadline-releases)
+1. 🚀 Published release [Threadline v1.0.1](https://github.com/guillemf/threadline-releases/releases/tag/v1.0.1) in [guillemf/threadline-releases](https://github.com/guillemf/threadline-releases)
 <!--END_SECTION:activity-->
 
