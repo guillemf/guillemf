@@ -179,6 +179,6 @@ to see if it's a fit.
 
 # Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Trustline v0.5.0](https://github.com/guillemf/trustline-releases/releases/tag/v0.5.0) in [guillemf/trustline-releases](https://github.com/guillemf/trustline-releases)
+1. 🎉 Merged PR [#1](https://github.com/guillemf/engineeringprotocolstack/pull/1) in [guillemf/engineeringprotocolstack](https://github.com/guillemf/engineeringprotocolstack)
 <!--END_SECTION:activity-->
 
