@@ -179,6 +179,6 @@ to see if it's a fit.
 
 # Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/guillemf/engineeringprotocolstack/pull/4) in [guillemf/engineeringprotocolstack](https://github.com/guillemf/engineeringprotocolstack)
+1. 🎉 Merged PR [#7](https://github.com/guillemf/engineeringprotocolstack/pull/7) in [guillemf/engineeringprotocolstack](https://github.com/guillemf/engineeringprotocolstack)
 <!--END_SECTION:activity-->
 
